@@ -40,7 +40,7 @@ function MovieInfo() {
         //specify that this side-effect should only be used one time after the componenet has first rendered
 
 
-    }, [] )
+    }, [movie_id] )
 
 
 
